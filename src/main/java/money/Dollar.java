@@ -1,9 +1,11 @@
 package main.java.money;
 
 public class Dollar {
-    int amount = 10;
+    int amount;
     public Dollar(int amount) {
+        this.amount = amount;
     }
-    public void times(int multipulier) {
+    public Dollar times(int multipulier) {
+        return new Dollar(amount * multipulier);
     }
 }
