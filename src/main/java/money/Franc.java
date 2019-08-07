@@ -1,10 +1,17 @@
 package main.java.money;
 
 public class Franc extends Money {
-    public Franc(int amount) {
+    private String currency;
+    public Franc(int amount, String currency) {
         this.amount = amount;
+        this.currency = "CHF";
     }
+
     public Money times(int multipulier) {
-        return new Franc(amount * multipulier);
+        return Money.franc(amount * multipulier);
+    }
+
+    String currency() {
+        return currency;
     }
 }
