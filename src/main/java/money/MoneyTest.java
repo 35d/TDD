@@ -70,6 +70,16 @@ public class MoneyTest {
         assertEquals(Money.dollar(1), result);
     }
 
+    @Test
+    public void testMixedAddition() {
+        Expression fiveBucks = Money.dollar(5);
+        Expression tenFranc= Money.franc(10);
+        Bank bank = new Bank();
+        bank.addRate("CHF", "USD", 2);
+        Money result = bank.reduce(fiveBucks.plus(tenFranc), "USD");
+        assertEquals(Money.dollar(10), result);
+    }
+
 //    @Test
 //    public void testArrayEquals() {
 //        assertTrue((new Object[] {"abc"}.equals(new Object[] {"abc"})));
