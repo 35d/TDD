@@ -39,4 +39,9 @@ public class Money implements Expression {
     static Money franc(int amount) {
         return new Money(amount, "CHF");
     }
+
+    public Money reduce(Bank bank, String to) {
+        int rate = bank.rate(currency, to);
+        return new Money(amount / rate, to);
+    }
 }

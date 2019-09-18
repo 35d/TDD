@@ -1,14 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5d7eabe7-ab57-4d29-a7d6-03e4d5cced1f" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/money/Sum.java" afterDir="false" />
+    <list default="true" id="5d7eabe7-ab57-4d29-a7d6-03e4d5cced1f" name="Default" comment="✨ chapter 3">
+      <change afterPath="$PROJECT_DIR$/src/main/java/money/Pair.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/TDD/main/java/money/Bank.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/TDD/main/java/money/Bank.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/TDD/main/java/money/Expression.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/TDD/main/java/money/Expression.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/TDD/main/java/money/Money.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/TDD/main/java/money/Money.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/TDD/main/java/money/MoneyTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/TDD/main/java/money/MoneyTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/TDD/main/java/money/Sum.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/TDD/main/java/money/Sum.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/money/Bank.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/money/Bank.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/money/Expression.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/money/Expression.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/money/Money.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/money/Money.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/money/MoneyTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/money/MoneyTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/money/Sum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/money/Sum.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -19,26 +24,19 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="horizontal" split-proportion="0.5257009">
+    <splitter split-orientation="horizontal" split-proportion="0.44306418">
       <split-first>
         <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
           <file leaf-file-name="MoneyTest.java" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/src/main/java/money/MoneyTest.java">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="295">
-                  <caret line="35" column="9" lean-forward="true" selection-start-line="35" selection-start-column="9" selection-end-line="35" selection-end-column="9" />
+                <state relative-caret-position="120">
+                  <caret line="5" column="10" selection-start-line="5" selection-start-column="10" selection-end-line="5" selection-end-column="10" />
                   <folding>
                     <element signature="imports" expanded="true" />
+                    <element signature="e#1741#1742#0" expanded="true" />
+                    <element signature="e#1793#1794#0" expanded="true" />
                   </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="Sum.java" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/src/main/java/money/Sum.java">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="312">
-                  <caret line="13" column="37" lean-forward="true" selection-start-line="13" selection-start-column="37" selection-end-line="13" selection-end-column="37" />
                 </state>
               </provider>
             </entry>
@@ -50,8 +48,8 @@
           <file leaf-file-name="Money.java" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/src/main/java/money/Money.java">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="360">
-                  <caret line="19" column="35" selection-start-line="19" selection-start-column="35" selection-end-line="19" selection-end-column="35" />
+                <state relative-caret-position="392">
+                  <caret line="28" column="5" lean-forward="true" selection-start-line="28" selection-start-column="5" selection-end-line="28" selection-end-column="5" />
                   <folding>
                     <element signature="e#627#628#0" expanded="true" />
                     <element signature="e#671#672#0" expanded="true" />
@@ -60,11 +58,33 @@
               </provider>
             </entry>
           </file>
+          <file leaf-file-name="Pair.java" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/main/java/money/Pair.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="432">
+                  <caret line="18" column="1" lean-forward="true" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
+                  <folding>
+                    <element signature="e#360#361#0" expanded="true" />
+                    <element signature="e#384#385#0" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="Sum.java" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/main/java/money/Sum.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="360">
+                  <caret line="15" column="1" lean-forward="true" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
+                </state>
+              </provider>
+            </entry>
+          </file>
           <file leaf-file-name="Expression.java" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/src/main/java/money/Expression.java">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="96">
-                  <caret line="4" selection-start-line="4" selection-end-line="4" />
+                <state relative-caret-position="72">
+                  <caret line="3" column="26" selection-start-line="3" selection-start-column="26" selection-end-line="3" selection-end-column="26" />
                 </state>
               </provider>
             </entry>
@@ -72,8 +92,15 @@
           <file leaf-file-name="Bank.java" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/src/main/java/money/Bank.java">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="192">
-                  <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+                <state relative-caret-position="408">
+                  <caret line="17" column="38" lean-forward="true" selection-start-line="17" selection-start-column="38" selection-end-line="17" selection-end-column="38" />
+                  <folding>
+                    <element signature="imports" expanded="true" />
+                    <element signature="e#92#93#0" expanded="true" />
+                    <element signature="e#138#139#0" expanded="true" />
+                    <element signature="e#306#307#0" expanded="true" />
+                    <element signature="e#332#333#0" expanded="true" />
+                  </folding>
                 </state>
               </provider>
             </entry>
@@ -112,10 +139,11 @@
         <option value="$PROJECT_DIR$/src/main/java/money/Franc.java" />
         <option value="$PROJECT_DIR$/src/main/java/money/Dollar.java" />
         <option value="$PROJECT_DIR$/src/main/java/money/Expression.java" />
+        <option value="$PROJECT_DIR$/src/main/java/money/Sum.java" />
         <option value="$PROJECT_DIR$/src/main/java/money/Money.java" />
+        <option value="$PROJECT_DIR$/src/main/java/money/Pair.java" />
         <option value="$PROJECT_DIR$/src/main/java/money/MoneyTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/money/Bank.java" />
-        <option value="$PROJECT_DIR$/src/main/java/money/Sum.java" />
       </list>
     </option>
   </component>
@@ -130,7 +158,7 @@
   </component>
   <component name="ProjectFrameBounds">
     <option name="y" value="23" />
-    <option name="width" value="1440" />
+    <option name="width" value="1611" />
     <option name="height" value="1597" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -140,21 +168,13 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="ProjectPane">
+      <pane id="AndroidView" />
+      <pane id="PackagesPane">
         <subPane>
           <expand>
             <path>
-              <item name="TDD" type="b2602c69:ProjectViewProjectNode" />
-              <item name="TDD" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="TDD" type="b2602c69:ProjectViewProjectNode" />
-              <item name="TDD" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="TDD" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="TDD" type="58d84e3e:PackageViewProjectNode" />
+              <item name="TDD" type="616d4139:PackageViewModuleNode" />
             </path>
           </expand>
           <select />
@@ -196,18 +216,26 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane">
+      <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="TDD" type="58d84e3e:PackageViewProjectNode" />
-              <item name="TDD" type="616d4139:PackageViewModuleNode" />
+              <item name="TDD" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TDD" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TDD" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TDD" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TDD" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -248,7 +276,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.MoneyTest.testReduceSum">
+  <component name="RunManager" selected="JUnit.MoneyTest">
     <configuration name="MoneyTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="TDD" />
       <extension name="coverage">
@@ -289,7 +317,7 @@
       </option>
       <patterns />
     </configuration>
-    <configuration name="MoneyTest.testEquality" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="MoneyTest.testArrayEquals" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="TDD" />
       <extension name="coverage">
         <pattern>
@@ -301,7 +329,7 @@
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="main.java.money" />
       <option name="MAIN_CLASS_NAME" value="main.java.money.MoneyTest" />
-      <option name="METHOD_NAME" value="testEquality" />
+      <option name="METHOD_NAME" value="testArrayEquals" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" />
       <option name="PARAMETERS" />
@@ -312,7 +340,7 @@
       </option>
       <patterns />
     </configuration>
-    <configuration name="MoneyTest.testPlusReturnsSum" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="MoneyTest.testReduceMoneyDifferentCurrency" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="TDD" />
       <extension name="coverage">
         <pattern>
@@ -324,7 +352,7 @@
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="main.java.money" />
       <option name="MAIN_CLASS_NAME" value="main.java.money.MoneyTest" />
-      <option name="METHOD_NAME" value="testPlusReturnsSum" />
+      <option name="METHOD_NAME" value="testReduceMoneyDifferentCurrency" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" />
       <option name="PARAMETERS" />
@@ -358,7 +386,7 @@
       </option>
       <patterns />
     </configuration>
-    <configuration name="MoneyTest.testSimpleAddition" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="MoneyTest.testreduceMoney" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="TDD" />
       <extension name="coverage">
         <pattern>
@@ -370,7 +398,7 @@
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="main.java.money" />
       <option name="MAIN_CLASS_NAME" value="main.java.money.MoneyTest" />
-      <option name="METHOD_NAME" value="testSimpleAddition" />
+      <option name="METHOD_NAME" value="testreduceMoney" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" />
       <option name="PARAMETERS" />
@@ -398,18 +426,18 @@
     </configuration>
     <list>
       <item itemvalue="JUnit.MoneyTest" />
-      <item itemvalue="JUnit.MoneyTest.testSimpleAddition" />
-      <item itemvalue="JUnit.MoneyTest.testEquality" />
-      <item itemvalue="JUnit.MoneyTest.testPlusReturnsSum" />
       <item itemvalue="JUnit.MoneyTest.testReduceSum" />
+      <item itemvalue="JUnit.MoneyTest.testreduceMoney" />
+      <item itemvalue="JUnit.MoneyTest.testReduceMoneyDifferentCurrency" />
+      <item itemvalue="JUnit.MoneyTest.testArrayEquals" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.MoneyTest.testReduceSum" />
-        <item itemvalue="JUnit.MoneyTest.testPlusReturnsSum" />
-        <item itemvalue="JUnit.MoneyTest.testEquality" />
         <item itemvalue="JUnit.MoneyTest" />
-        <item itemvalue="JUnit.MoneyTest.testSimpleAddition" />
+        <item itemvalue="JUnit.MoneyTest.testArrayEquals" />
+        <item itemvalue="JUnit.MoneyTest.testReduceMoneyDifferentCurrency" />
+        <item itemvalue="JUnit.MoneyTest.testreduceMoney" />
+        <item itemvalue="JUnit.MoneyTest.testReduceSum" />
       </list>
     </recent_temporary>
   </component>
@@ -438,7 +466,11 @@
       <workItem from="1565145276681" duration="2358000" />
       <workItem from="1565158445801" duration="12000" />
       <workItem from="1565748324032" duration="3359000" />
-      <workItem from="1566353297120" duration="3042000" />
+      <workItem from="1566353297120" duration="3232000" />
+      <workItem from="1566957994797" duration="3233000" />
+      <workItem from="1567562926507" duration="2171000" />
+      <workItem from="1567578986113" duration="310000" />
+      <workItem from="1568772493832" duration="802000" />
     </task>
     <task id="LOCAL-00001" summary="✨ chapter 3">
       <created>1562731923578</created>
@@ -451,42 +483,42 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="MoneyTest_testFlancMultiplication - 2019.08.14 at 11h 30m 32s.xml">
-      <configuration name="MoneyTest.testFlancMultiplication" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="MoneyTest - 2019.08.14 at 11h 34m 28s.xml">
+    <history-entry file="MoneyTest - 2019.08.28 at 11h 26m 50s.xml">
       <configuration name="MoneyTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="MoneyTest - 2019.08.14 at 11h 38m 54s.xml">
+    <history-entry file="MoneyTest_testreduceMoney - 2019.08.28 at 11h 36m 13s.xml">
+      <configuration name="MoneyTest.testreduceMoney" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MoneyTest_testreduceMoney - 2019.08.28 at 11h 36m 44s.xml">
+      <configuration name="MoneyTest.testreduceMoney" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MoneyTest_testreduceMoney - 2019.08.28 at 11h 42m 46s.xml">
+      <configuration name="MoneyTest.testreduceMoney" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MoneyTest_testReduceMoneyDifferentCurrency - 2019.08.28 at 11h 46m 14s.xml">
+      <configuration name="MoneyTest.testReduceMoneyDifferentCurrency" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MoneyTest - 2019.09.04 at 11h 15m 23s.xml">
       <configuration name="MoneyTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="MoneyTest_testSimpleAddition - 2019.08.14 at 11h 52m 43s.xml">
-      <configuration name="MoneyTest.testSimpleAddition" configurationId="JUnit" />
+    <history-entry file="MoneyTest_testArrayEquals - 2019.09.04 at 11h 34m 18s.xml">
+      <configuration name="MoneyTest.testArrayEquals" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="MoneyTest - 2019.08.14 at 11h 53m 06s.xml">
+    <history-entry file="MoneyTest - 2019.09.18 at 11h 11m 24s.xml">
       <configuration name="MoneyTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="MoneyTest_testPlusReturnsSum - 2019.08.21 at 11h 29m 21s.xml">
-      <configuration name="MoneyTest.testPlusReturnsSum" configurationId="JUnit" />
+    <history-entry file="MoneyTest - 2019.09.18 at 11h 19m 20s.xml">
+      <configuration name="MoneyTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="MoneyTest_testPlusReturnsSum - 2019.08.21 at 11h 30m 11s.xml">
-      <configuration name="MoneyTest.testPlusReturnsSum" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="MoneyTest_testReduceSum - 2019.08.21 at 11h 35m 11s.xml">
-      <configuration name="MoneyTest.testReduceSum" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="MoneyTest_testPlusReturnsSum - 2019.08.21 at 11h 46m 54s.xml">
-      <configuration name="MoneyTest.testPlusReturnsSum" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="MoneyTest_testReduceSum - 2019.08.21 at 11h 47m 02s.xml">
-      <configuration name="MoneyTest.testReduceSum" configurationId="JUnit" />
+    <history-entry file="MoneyTest - 2019.09.18 at 11h 20m 48s.xml">
+      <configuration name="MoneyTest" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="20401000" />
+    <option name="totallyTimeSpent" value="27107000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1440" height="1597" extended-state="0" />
+    <frame x="0" y="23" width="1611" height="1597" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
@@ -498,13 +530,13 @@
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="7" />
       <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Run" order="3" visible="true" weight="0.39482415" />
+      <window_info active="true" anchor="bottom" id="Run" order="3" visible="true" weight="0.3941606" />
       <window_info anchor="bottom" id="Version Control" order="12" />
       <window_info anchor="bottom" id="Terminal" order="11" />
       <window_info anchor="bottom" id="RNConsole" order="8" />
       <window_info id="Capture Tool" order="3" />
       <window_info id="Designer" order="2" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.108333334" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.15704532" />
       <window_info anchor="right" id="Database" order="6" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -536,16 +568,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/money/MoneyTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="16" column="33" selection-start-line="16" selection-start-column="33" selection-end-line="16" selection-end-column="33" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/money/Dollar.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/money/Franc.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/money/Money.java">
@@ -565,6 +587,8 @@
           <caret line="16" column="33" selection-start-line="16" selection-start-column="33" selection-end-line="16" selection-end-column="33" />
           <folding>
             <element signature="imports" expanded="true" />
+            <element signature="e#1741#1742#0" expanded="true" />
+            <element signature="e#1793#1794#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -584,6 +608,8 @@
           <caret line="26" column="1" selection-start-line="26" selection-start-column="1" selection-end-line="26" selection-end-column="1" />
           <folding>
             <element signature="imports" expanded="true" />
+            <element signature="e#1741#1742#0" expanded="true" />
+            <element signature="e#1793#1794#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -603,6 +629,8 @@
           <caret line="26" column="1" selection-start-line="26" selection-start-column="1" selection-end-line="26" selection-end-column="1" />
           <folding>
             <element signature="imports" expanded="true" />
+            <element signature="e#1741#1742#0" expanded="true" />
+            <element signature="e#1793#1794#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -622,6 +650,8 @@
           <caret line="26" column="1" selection-start-line="26" selection-start-column="1" selection-end-line="26" selection-end-column="1" />
           <folding>
             <element signature="imports" expanded="true" />
+            <element signature="e#1741#1742#0" expanded="true" />
+            <element signature="e#1793#1794#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -641,6 +671,8 @@
           <caret line="24" column="5" lean-forward="true" selection-start-line="24" selection-start-column="5" selection-end-line="24" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
+            <element signature="e#1741#1742#0" expanded="true" />
+            <element signature="e#1793#1794#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -660,6 +692,8 @@
           <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
           <folding>
             <element signature="imports" expanded="true" />
+            <element signature="e#1741#1742#0" expanded="true" />
+            <element signature="e#1793#1794#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -671,6 +705,8 @@
           <caret line="13" column="5" lean-forward="true" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
+            <element signature="e#1741#1742#0" expanded="true" />
+            <element signature="e#1793#1794#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -682,6 +718,8 @@
           <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
           <folding>
             <element signature="imports" expanded="true" />
+            <element signature="e#1741#1742#0" expanded="true" />
+            <element signature="e#1793#1794#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -693,6 +731,8 @@
           <caret selection-end-column="14" />
           <folding>
             <element signature="imports" expanded="true" />
+            <element signature="e#1741#1742#0" expanded="true" />
+            <element signature="e#1793#1794#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -704,6 +744,8 @@
           <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
           <folding>
             <element signature="imports" expanded="true" />
+            <element signature="e#1741#1742#0" expanded="true" />
+            <element signature="e#1793#1794#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -745,10 +787,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/money/Dollar.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/money/Franc.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/money/MoneyTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="5" column="10" selection-start-line="5" selection-start-column="10" selection-end-line="5" selection-end-column="10" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1741#1742#0" expanded="true" />
+            <element signature="e#1793#1794#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/money/Money.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="19" column="35" selection-start-line="19" selection-start-column="35" selection-end-line="19" selection-end-column="35" />
+        <state relative-caret-position="392">
+          <caret line="28" column="5" lean-forward="true" selection-start-line="28" selection-start-column="5" selection-end-line="28" selection-end-column="5" />
           <folding>
             <element signature="e#627#628#0" expanded="true" />
             <element signature="e#671#672#0" expanded="true" />
@@ -756,33 +810,41 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/money/Expression.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/money/Pair.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="96">
-          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        <state relative-caret-position="432">
+          <caret line="18" column="1" lean-forward="true" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
+          <folding>
+            <element signature="e#360#361#0" expanded="true" />
+            <element signature="e#384#385#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/money/Sum.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="312">
-          <caret line="13" column="37" lean-forward="true" selection-start-line="13" selection-start-column="37" selection-end-line="13" selection-end-column="37" />
+        <state relative-caret-position="360">
+          <caret line="15" column="1" lean-forward="true" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/money/Expression.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="3" column="26" selection-start-line="3" selection-start-column="26" selection-end-line="3" selection-end-column="26" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/money/Bank.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="192">
-          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/money/MoneyTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="295">
-          <caret line="35" column="9" lean-forward="true" selection-start-line="35" selection-start-column="9" selection-end-line="35" selection-end-column="9" />
+        <state relative-caret-position="408">
+          <caret line="17" column="38" lean-forward="true" selection-start-line="17" selection-start-column="38" selection-end-line="17" selection-end-column="38" />
           <folding>
             <element signature="imports" expanded="true" />
+            <element signature="e#92#93#0" expanded="true" />
+            <element signature="e#138#139#0" expanded="true" />
+            <element signature="e#306#307#0" expanded="true" />
+            <element signature="e#332#333#0" expanded="true" />
           </folding>
         </state>
       </provider>
